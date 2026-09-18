@@ -1,0 +1,6 @@
+{
+  "name": "Dual-Laser Intrusion Alarm & Arduino Radar Workbench",
+  "description": "Complete embedded systems engineering workbench, circuit diagram audit, interactive hardware simulation, and production Arduino Uno sketch for a dual-laser tripwire alarm with servo-mounted ultrasonic radar and 16x2 I2C LCD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
